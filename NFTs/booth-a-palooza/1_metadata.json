@@ -1,0 +1,16 @@
+{
+  "name": "BOOTH-A-PALOOZA VHS",
+  "description": "Welcome to BOOTH-A-PALOOZA, a virtual expo created to unite builders and makers of the open metaverse, presented by M3 and Neon Buidl. While large entities were planning physical conferences, we collaboratively built an festival in our browsers using glTF assets with the intention of making this experience cross-platform, then used it as an outdoor studio to interview the creators in front of their projects. Lets hit the street!\n\n- [World](https://hyperfy.io/neonstreet)\n- [Part 1](https://bafybeif23oqn6iplbh7ie7pwc5c2dv4uieir2du2wphths24zlqmqtb4j4.ipfs.w3s.link/Part1.mp4)\n- [Part 2](https://bafybeie22bmfdkrbtvmtetppesbeyulnnk4jkq23jdytwa74egnvgn5ley.ipfs.w3s.link/Part2.mp4)\n- [vrm](https://ipfs.io/ipfs/QmcYbePSQipv7zUs2tdCQoWe5jxoQvBkUVNm9kL7xKpj9P/)\n\nBox design by [@7oroy](https://twitter.com/7oroy)",
+  "image": "ipfs://bafybeidd475mzjl2al2cpzx4kptqrcwqkzfyragsvidfoc5i6uagg7exhq",
+  "animation_url": "ipfs://bafybeihr7jskxv5bkby6u7hdpjzntwcyzeem6nvsg7rf5b6zf25j2ajkdi",
+  "vrm_url": "https://bafybeiackx2gfw25hhil2mjzj43okgau36oopfu2kgxhcxxckte5okbzje.ipfs.w3s.link/ipfs/bafybeiackx2gfw25hhil2mjzj43okgau36oopfu2kgxhcxxckte5okbzje/booth-a-palooza.vrm",
+  "background_color": "000000",
+  "content": {
+    "uri": "ipfs://bafybeihr7jskxv5bkby6u7hdpjzntwcyzeem6nvsg7rf5b6zf25j2ajkdi"
+  },
+  "media_files": {
+    "video_1": "https://bafybeif23oqn6iplbh7ie7pwc5c2dv4uieir2du2wphths24zlqmqtb4j4.ipfs.w3s.link/Part1.mp4",
+    "video_2": "https://bafybeie22bmfdkrbtvmtetppesbeyulnnk4jkq23jdytwa74egnvgn5ley.ipfs.w3s.link/Part2.mp4"
+  },
+  "attributes": []
+}
